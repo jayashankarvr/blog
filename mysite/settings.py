@@ -19,12 +19,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'y@8-4r%-97jyu057%38ii+azx*3@n6iedcgf@lvks+9#kx7wdv'
+SECRET_KEY = 'y@8-4r%-97jyu057%3#@#@$&+azx*3@n6iedcgf@lvks+9#kx7wdv'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['hossam-hwary.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['hossam-hwary.herokuapp.com', '127.0.0.1', 'localhost']
 
 TINYMCE_DEFAULT_CONFIG = {
     'height': 360,
